@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: First commit
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+[Jekyll](https://jekyllrb-ja.github.io/) + [GitHub Pages](https://pages.github.com/)でブログを作ってみた。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+- 10分程度あればブログを公開するところまで持ってこれて、その後のカスタマイズの自由度も高そう
+- 記事をMarkdownで書ける
+- 記事をGitでバージョン管理できる
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+など、色々と嬉しい。<br>
+普段の学習がインプットに偏り気味なので、アウトプットの場としてブログを活用していきたい。
+
