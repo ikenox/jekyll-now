@@ -3,7 +3,7 @@ layout: post
 title: First commit
 ---
 
-[Jekyll](https://jekyllrb-ja.github.io/) + [GitHub Pages](https://pages.github.com/)でブログを作ってみた。
+[Jekyll Now](https://github.com/barryclark/jekyll-now) + [GitHub Pages](https://pages.github.com/)でブログを作ってみた。
 
 - 10分程度あればブログを公開するところまで持ってこれて、その後のカスタマイズの自由度も高そう
 - 記事をMarkdownで書ける
